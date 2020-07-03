@@ -1,0 +1,6 @@
+build/
+.idea/
+out/
+.gradle/
+*.py
+gradle.properties
